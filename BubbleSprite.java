@@ -50,8 +50,8 @@ import java.util.Vector;
 
 public class BubbleSprite extends Sprite
 {
-	private static double FALL_SPEED = 1.;
-	private static double MAX_BUBBLE_SPEED = 8.;
+	private static double FALL_SPEED = 1000.;
+	private static double MAX_BUBBLE_SPEED = 8000.;
 	private static double MINIMUM_DISTANCE = 841.;
 	
 	private Image bubbleFace;
