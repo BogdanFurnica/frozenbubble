@@ -54,7 +54,7 @@ public class FrozenGame extends GameScreen
 	public final static int HORIZONTAL_MOVE = 0;
 	public final static int FIRE = 1;
 	
-	public final static int KEY_UP = 38;
+	public final static int KEY_D = 40;
 	public final static int KEY_LEFT = 37;
 	public final static int KEY_RIGHT = 39;
 	public final static int KEY_SHIFT = 16;
